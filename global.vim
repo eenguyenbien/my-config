@@ -36,6 +36,7 @@ set cursorline
 
 set smartcase
 set incsearch
+set hlsearch
 
 " Gọi đầu tiên
 call plug#begin('~/.vim/plugged')

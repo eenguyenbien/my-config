@@ -1,2 +1,2 @@
-source /usr/share/myvimconfig/global.vim
+source /usr/share/my-config/global.vim
 
